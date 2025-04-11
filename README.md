@@ -4,3 +4,4 @@ Este es el primer agregado de Javier BLanco
 Soledad Ortiz 
 Ezequiel Mendoza
 Carolina Ibarrola
+Rodrigo Cabarcos
